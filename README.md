@@ -1,0 +1,3 @@
+Aby zainstalować i uruchomić aplikację, należy zainstalować biblioteki za pomocą komendy "pip install -r requirements.txt". Trzeba utworzyć plik Makefile w głównym folderze projektu, który umożliwi instalację zależności z pliku requirements.txt oraz uruchomienie aplikacji flask za pomocą komendy "python -m flask run". Następnie należy sprawdzić działanie aplikacji poprzez wykonanie określonych poleceń curl w terminalu, żeby sprawdzić poprawność odpowiedzi. 
+
+README.md jest ważnym elementem projektu, ponieważ umożliwia przekazanie innym osobom najważniejszych informacji na temat danego projektu.
