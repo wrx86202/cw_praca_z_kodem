@@ -1,8 +1,8 @@
 install:
-    pip install –r requirements.txt
+	pip install –r requirements.txt
 
 run:
-    flask run
+	python -m flask run
 
 check:
-    pylint app.py
+	python -m pylint app.py
